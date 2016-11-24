@@ -828,7 +828,7 @@ module Cisco-IOS-XR-qos-ma-oper {
       description "to maintain satellite id";
     }
 
-    list class-stat {
+    list class-stats {
       description "array of classes contained in policy";
       uses CLASS-STATS;
     }
